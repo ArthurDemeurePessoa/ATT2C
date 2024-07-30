@@ -1,7 +1,7 @@
 body{
     background-color: #EBECEE;
 }
-@import url("styles/header.css");
+@import url("header.css");
 
 :root {
     --cor-de-fundo: #EBECEE;
